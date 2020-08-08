@@ -1,0 +1,17 @@
+.image {
+    border-radius: 100%;
+    margin: 0em 2em 2em 2em;
+}
+
+.imageContainer{
+    text-align: center;
+}
+
+.heroContent {
+    background-color: white;
+    padding: 4em 0em 3em;
+}
+  
+.heroButtons {
+margin-top: 2em;
+}

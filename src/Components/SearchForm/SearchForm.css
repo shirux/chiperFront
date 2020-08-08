@@ -1,0 +1,23 @@
+.SearchForm {
+    width: 100% !important;
+    margin-top: 1em !important;
+}
+
+.root {
+    height: 100vh !important;
+}
+
+.SearchFormSubmit {
+    margin: 3em 0em 2em !important;
+}
+
+.SearchFormAvatar {
+    margin: 1em !important;
+}
+
+.SearchFormPaper {
+    margin: 4em 2em !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}

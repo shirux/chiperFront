@@ -1,0 +1,12 @@
+.cardRoot {
+    min-width: 350px;
+    margin: 20px;
+}
+
+.cardTitle {
+    font-size: 14px;
+}
+
+.cardPos {
+    margin-bottom: 12px;
+}
